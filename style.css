@@ -1,0 +1,57 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(96, 0, 186);
+  }
+  
+  .container {
+    width: 700px;
+    height: 665px;
+    border-radius: 10px;
+    background-color: rgb(43, 0, 130);
+    text-align: center;
+    color: white;
+    font-size: 30px;  
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+      margin:0 auto;
+      margin-top: 80px;
+
+  }
+  h1{
+    margin-top: 20px;
+  }
+  
+  textarea {
+    width: 670px;
+    height: 300px;
+    border-radius: 10px;
+    color: black; 
+    font-size: 18px;
+    padding: 10px;
+    background-color: rgb(245, 241, 241);
+  }
+  
+  select {
+    width: 630px;
+    height: 50px;
+    font-size: 18px;
+    background-color: rgb(245, 241, 241);
+  }
+  
+  button {
+    background-color: rgb(0, 114, 156);
+    width: 110px;
+    border-radius: 15px;
+    color: white;
+    height: 40px;
+    font-size: 18px;
+  }
+  
